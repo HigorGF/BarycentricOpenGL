@@ -1,0 +1,3 @@
+/home/higor/Downloads/barycentric/build/CMakeFiles/Barycentric.dir
+/home/higor/Downloads/barycentric/build/CMakeFiles/edit_cache.dir
+/home/higor/Downloads/barycentric/build/CMakeFiles/rebuild_cache.dir
